@@ -1,0 +1,20 @@
+{
+  "support_ids": [
+    6368800032,
+    6358923796,
+    2113625271
+  ],
+  "active_dialogs": {},
+  "user_to_support": {},
+  "support_to_user": {},
+  "request_queue": [],
+  "active_supports": [
+    6368800032
+  ],
+  "busy_supports": [],
+  "sleeping_supports": [
+    6368800032,
+    2113625271
+  ],
+  "processed_users": []
+}

@@ -1,0 +1,38 @@
+{
+  "support_ids": [
+    6358923796,
+    2113625271
+  ],
+  "active_dialogs": {
+    "7839125227": {
+      "support_id": 2113625271,
+      "last_activity": "2025-07-19T03:38:53.599505",
+      "sleep_after": false
+    }
+  },
+  "user_to_support": {
+    "7839125227": 2113625271
+  },
+  "support_to_user": {
+    "2113625271": 7839125227
+  },
+  "request_queue": [
+    {
+      "user_id": 6368800032,
+      "username": "Jdjdjvkejdjc",
+      "time": "2025-07-19T03:38:55.103009"
+    }
+  ],
+  "active_supports": [
+    2113625271
+  ],
+  "busy_supports": [
+    2113625271
+  ],
+  "sleeping_supports": [
+    6358923796
+  ],
+  "processed_users": [
+    6368800032
+  ]
+}
